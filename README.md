@@ -1,6 +1,6 @@
 # ORMCrud, Example of use
 
-//Database PDO connection
+//Database PDO connection and instance
 # $db = new PDO("mysql:host=localhost;dbname=database_name", "username", "password");
 # $orm = new ORM($db);
 
